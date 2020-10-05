@@ -27,7 +27,7 @@ String feathers = input.nextLine();
    }else if (swim.equals("no")){
      System.out.println("This is a hen");
    }
-   
+   //asks  if animal has feathers
    }else{
     if( feathers.equals("no") ) {
    System.out.println("Does the animal legs?");
